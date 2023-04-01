@@ -104,15 +104,16 @@ function createPUTRequest(connToken, jsonObj, dbName, relName) {
 
 **Server:** JsonPowerDB
 
-## Screenshots
 
-![PC View1](https://i.ibb.co/MnTPjzC/1.png)
 
-![PC View2](https://i.ibb.co/XFNXybp/2.png)
+
+
 
 ### Mobile View
+https://drive.google.com/file/d/1QiH_kMnnD4hYLHe-D3WlPtkZKDXqQmcG/view?usp=drivesdk
+![PC View1]https://drive.google.com/file/d/1QiH_kMnnD4hYLHe-D3WlPtkZKDXqQmcG/view?usp=drivesdk
+![PC View1]
 
-![PC View2](https://i.ibb.co/1qwsbVb/3.png)
 
 
 
